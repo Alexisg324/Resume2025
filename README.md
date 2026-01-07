@@ -1,5 +1,5 @@
-# Resume2026
-# I’m an IT Project Manager / Technical PM focused on network infrastructure, migrations, and Agile delivery. I work best in fast-paced environments where there’s a lot moving at once and someone needs to bring structure, clarity, and a real plan.
+# About Me
+I’m an IT Project Manager / Technical PM focused on network infrastructure, migrations, and Agile delivery. I work best in fast-paced environments where there’s a lot moving at once and someone needs to bring structure, clarity, and a real plan.
 
 My background includes network infrastructure projects, data migrations, onboarding, and SaaS rollouts. I’ve delivered 20+ projects end-to-end, coordinating across multiple teams and keeping stakeholders aligned from kickoff through delivery. I also enjoy improving how teams work by building tracking, reporting, and documentation that make delivery smoother and more predictable.
 
